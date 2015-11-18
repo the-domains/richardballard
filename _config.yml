@@ -1,8 +1,20 @@
 layout_spectrum: 0.7234401
+name: RichardBallard
 typography_spectrum: 0.2344137
 color:
-  lightness: 0.8153457
   brandStrength: 0.6784006
   saturation: 0.3620957
+  lightness: 0.8153457
   rhythmicContrast: 0.153457
-name: RichardBallard
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
