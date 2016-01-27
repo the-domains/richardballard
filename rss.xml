@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RichardBallard]]></title>
+        <description><![CDATA[RichardBallard]]></description>
+        <link>https://thegrid.ai/richardballard/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 12:10:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/richardballard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Richard]]></title>
+            <description><![CDATA[<article><h1>Richard</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82fd34af267c7c5df3f90f1b78db2ab4620bc29f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richardballard/richard/index.html</link>
+            <guid isPermaLink="false">91e9045d-5af1-444f-a270-c146fe32bec4</guid>
+            <pubDate>Wed, 27 Jan 2016 12:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/richardballard/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">fafd1a5d-1b45-4ecc-ad8a-20bc1ea03fb6</guid>
+            <pubDate>Wed, 18 Nov 2015 18:15:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
