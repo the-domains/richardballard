@@ -1,11 +1,7 @@
-layout_spectrum: 0.7234401
 name: RichardBallard
+favicon: null
+layout_spectrum: 0.7234401
 typography_spectrum: 0.2344137
-color:
-  brandStrength: 0.6784006
-  saturation: 0.3620957
-  lightness: 0.8153457
-  rhythmicContrast: 0.153457
 collections:
   - index:
       navigable: true
@@ -18,3 +14,22 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6784006
+  lightness: 0.8153457
+  saturation: 0.3620957
+  rhythmicContrast: 0.153457
+purpose: []
