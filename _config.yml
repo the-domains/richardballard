@@ -1,35 +1,40 @@
-name: RichardBallard
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.2344137
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: RichardBallard
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors: []
+  saturation: 0.3620957
   brandStrength: 0.6784006
   lightness: 0.8153457
-  saturation: 0.3620957
+  brandColors:
+    - '#BE7F3C'
+    - '#D5D9DC'
+    - '#47351B'
+    - '#AE5D11'
+    - '#C0A686'
   rhythmicContrast: 0.153457
-purpose: []
+typography_spectrum: 0.2344137
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
